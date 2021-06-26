@@ -24,31 +24,6 @@ def add_margin(pil_img, top, right, bottom, left, color):
     result.paste(pil_img, (left, top))
     return result
 
-# def exam_to_pages(inp):
-#     pdf = PyPDF2.PdfFileReader(open(inp, "rb"))
-
-#     numpages = pdf.getNumPages()
-#     pages = [pdf.getPage(x) for x in range(2, numpages-1)]
-
-#     print(pages[0].extractText())
-
-# def page_nums(image):
-#     """dont use this method"""
-#     n_im = image.crop((0, 0, 30, image.height))
-
-#     # top, right, bottom, left
-#     n_im = add_margin(n_im, 0, 20, 20, 0, (255, 255, 255))
-
-#     for x in range(n_im.width):
-#         for y in range(n_im.height):
-#             if n_im.getpixel((x, y))[0] < 255 or n_im.getpixel((x, y))[1] < 255 or n_im.getpixel((x, y))[2] < 255:
-#                 n_im.putpixel((x, y), (0, 0, 0))
-
-#     n_im.show()
-
-#     nums = pytesseract.image_to_string(n_im, config='--psm 11')
-#     print(nums)
-
 def segment_problems(side_image, year, page, firstprobnum, lastseg=False):
     """Segment a left/right side of USNCO open into its problems
     
@@ -98,6 +73,9 @@ def segment_problems(side_image, year, page, firstprobnum, lastseg=False):
 
     return current_prob
 
+FIRST_PAGE_CROP = 320 # 280 by default
+LAST_PAGE_CROP = 100 # 65 by default
+
 def segment(image, year, page, firstprobnum, lastpage=False):
     """Segment a page of a USNCO open into its problems
     
@@ -108,7 +86,7 @@ def segment(image, year, page, firstprobnum, lastpage=False):
     # initial crop
     im = image.crop((0, 120, image.width, image.height-200))  
     if page == 2:
-        im = im.crop((0, 280, im.width, im.height))
+        im = im.crop((0, FIRST_PAGE_CROP, im.width, im.height))
 
     # left-right sep
     iml = im.crop((0, 0, im.width/2, im.height))
@@ -134,10 +112,10 @@ def segment(image, year, page, firstprobnum, lastpage=False):
     if lastpage:
         print("Segmenting last page")
         if failure[1]:
-            iml = iml.crop((0, 0, iml.width, iml.height-65))
+            iml = iml.crop((0, 0, iml.width, iml.height-LAST_PAGE_CROP))
             iml = trim(iml)
         else:
-            imr = imr.crop((0, 0, imr.width, imr.height-65))
+            imr = imr.crop((0, 0, imr.width, imr.height-LAST_PAGE_CROP))
             imr = trim(imr)
 
     if not failure[0]:
@@ -155,6 +133,8 @@ def segment(image, year, page, firstprobnum, lastpage=False):
         print(f"Segmented problems {start} - {pn-1}. Check {year}/halves/{start}_{pn-1}.png")
 
     return pn
+
+LAST_PAGE_PADDING = 2 # 1 by default
         
 def exam_to_img(inp):
     pgs = pdf2image.convert_from_path(inp)
@@ -167,16 +147,16 @@ def exam_to_img(inp):
         os.makedirs(f"{year}/probs")
 
     pn = 1
-    for i in range(2, len(pgs)-1):
+    for i in range(2, len(pgs)-LAST_PAGE_PADDING):
         start = pn
-        pn = segment(pgs[i], year, i, pn, i == len(pgs)-2)
+        pn = segment(pgs[i], year, i, pn, i == len(pgs)-LAST_PAGE_PADDING-1)
 
-        pgs[i].save(f"{year}/pages/{start}_{pn-1}.png")
+        pgs[i].save(f"{year}/pages/{start}_{pn-LAST_PAGE_PADDING}.png")
 
         # debugging: only attempt to seg first page
         # break
 
 if __name__ == "__main__":
-    for year in range(2000, 2016):
+    for year in range(2000, 2003):
         print(f"Segmenting pdfs/{year}.pdf")
         exam_to_img(f"pdfs/{year}.pdf")
