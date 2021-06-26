@@ -74,7 +74,7 @@ def segment_problems(side_image, year, page, firstprobnum, lastseg=False):
     return current_prob
 
 FIRST_PAGE_CROP = 320 # 280 by default
-LAST_PAGE_CROP = 100 # 65 by default
+LAST_PAGE_CROP = 65 # 65 by default
 
 def segment(image, year, page, firstprobnum, lastpage=False):
     """Segment a page of a USNCO open into its problems
@@ -134,7 +134,7 @@ def segment(image, year, page, firstprobnum, lastpage=False):
 
     return pn
 
-LAST_PAGE_PADDING = 2 # 1 by default
+LAST_PAGE_PADDING = 1 # 1 by default
         
 def exam_to_img(inp):
     pgs = pdf2image.convert_from_path(inp)
@@ -157,6 +157,6 @@ def exam_to_img(inp):
         # break
 
 if __name__ == "__main__":
-    for year in range(2000, 2003):
+    for year in range(2007, 2008):
         print(f"Segmenting pdfs/{year}.pdf")
         exam_to_img(f"pdfs/{year}.pdf")
