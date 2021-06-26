@@ -1,0 +1,4498 @@
+{
+    "2013_60": {
+        "prob": "sets/2013/probs/60.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/60_60.png"
+    },
+    "2013_48": {
+        "prob": "sets/2013/probs/48.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_49": {
+        "prob": "sets/2013/probs/49.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_59": {
+        "prob": "sets/2013/probs/59.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_58": {
+        "prob": "sets/2013/probs/58.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_8": {
+        "prob": "sets/2013/probs/8.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/7_11.png"
+    },
+    "2013_9": {
+        "prob": "sets/2013/probs/9.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/7_11.png"
+    },
+    "2013_14": {
+        "prob": "sets/2013/probs/14.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/12_16.png"
+    },
+    "2013_28": {
+        "prob": "sets/2013/probs/28.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_29": {
+        "prob": "sets/2013/probs/29.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_15": {
+        "prob": "sets/2013/probs/15.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/12_16.png"
+    },
+    "2013_17": {
+        "prob": "sets/2013/probs/17.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/17_22.png"
+    },
+    "2013_16": {
+        "prob": "sets/2013/probs/16.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/12_16.png"
+    },
+    "2013_12": {
+        "prob": "sets/2013/probs/12.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/12_16.png"
+    },
+    "2013_13": {
+        "prob": "sets/2013/probs/13.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/12_16.png"
+    },
+    "2013_39": {
+        "prob": "sets/2013/probs/39.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_11": {
+        "prob": "sets/2013/probs/11.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/7_11.png"
+    },
+    "2013_10": {
+        "prob": "sets/2013/probs/10.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/7_11.png"
+    },
+    "2013_38": {
+        "prob": "sets/2013/probs/38.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_35": {
+        "prob": "sets/2013/probs/35.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_21": {
+        "prob": "sets/2013/probs/21.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/17_22.png"
+    },
+    "2013_20": {
+        "prob": "sets/2013/probs/20.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/17_22.png"
+    },
+    "2013_34": {
+        "prob": "sets/2013/probs/34.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/30_34.png"
+    },
+    "2013_22": {
+        "prob": "sets/2013/probs/22.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/17_22.png"
+    },
+    "2013_36": {
+        "prob": "sets/2013/probs/36.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_37": {
+        "prob": "sets/2013/probs/37.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_23": {
+        "prob": "sets/2013/probs/23.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_27": {
+        "prob": "sets/2013/probs/27.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_33": {
+        "prob": "sets/2013/probs/33.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/30_34.png"
+    },
+    "2013_32": {
+        "prob": "sets/2013/probs/32.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/30_34.png"
+    },
+    "2013_26": {
+        "prob": "sets/2013/probs/26.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_18": {
+        "prob": "sets/2013/probs/18.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/17_22.png"
+    },
+    "2013_30": {
+        "prob": "sets/2013/probs/30.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/30_34.png"
+    },
+    "2013_24": {
+        "prob": "sets/2013/probs/24.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_25": {
+        "prob": "sets/2013/probs/25.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/23_29.png"
+    },
+    "2013_31": {
+        "prob": "sets/2013/probs/31.png",
+        "page": "sets/2013/pages/23_34.png",
+        "half": "sets/2013/halves/30_34.png"
+    },
+    "2013_19": {
+        "prob": "sets/2013/probs/19.png",
+        "page": "sets/2013/pages/12_22.png",
+        "half": "sets/2013/halves/17_22.png"
+    },
+    "2013_4": {
+        "prob": "sets/2013/probs/4.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/1_6.png"
+    },
+    "2013_56": {
+        "prob": "sets/2013/probs/56.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_42": {
+        "prob": "sets/2013/probs/42.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_43": {
+        "prob": "sets/2013/probs/43.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_5": {
+        "prob": "sets/2013/probs/5.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/1_6.png"
+    },
+    "2013_57": {
+        "prob": "sets/2013/probs/57.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_41": {
+        "prob": "sets/2013/probs/41.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_55": {
+        "prob": "sets/2013/probs/55.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_7": {
+        "prob": "sets/2013/probs/7.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/7_11.png"
+    },
+    "2013_54": {
+        "prob": "sets/2013/probs/54.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_6": {
+        "prob": "sets/2013/probs/6.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/1_6.png"
+    },
+    "2013_40": {
+        "prob": "sets/2013/probs/40.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/35_41.png"
+    },
+    "2013_44": {
+        "prob": "sets/2013/probs/44.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_2": {
+        "prob": "sets/2013/probs/2.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/1_6.png"
+    },
+    "2013_50": {
+        "prob": "sets/2013/probs/50.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_3": {
+        "prob": "sets/2013/probs/3.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/1_6.png"
+    },
+    "2013_51": {
+        "prob": "sets/2013/probs/51.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_45": {
+        "prob": "sets/2013/probs/45.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_53": {
+        "prob": "sets/2013/probs/53.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2013_1": {
+        "prob": "sets/2013/probs/1.png",
+        "page": "sets/2013/pages/1_11.png",
+        "half": "sets/2013/halves/1_6.png"
+    },
+    "2013_47": {
+        "prob": "sets/2013/probs/47.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_46": {
+        "prob": "sets/2013/probs/46.png",
+        "page": "sets/2013/pages/35_50.png",
+        "half": "sets/2013/halves/42_50.png"
+    },
+    "2013_52": {
+        "prob": "sets/2013/probs/52.png",
+        "page": "sets/2013/pages/51_60.png",
+        "half": "sets/2013/halves/51_59.png"
+    },
+    "2014_60": {
+        "prob": "sets/2014/probs/60.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_48": {
+        "prob": "sets/2014/probs/48.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_49": {
+        "prob": "sets/2014/probs/49.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_59": {
+        "prob": "sets/2014/probs/59.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_58": {
+        "prob": "sets/2014/probs/58.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_8": {
+        "prob": "sets/2014/probs/8.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/6_11.png"
+    },
+    "2014_9": {
+        "prob": "sets/2014/probs/9.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/6_11.png"
+    },
+    "2014_14": {
+        "prob": "sets/2014/probs/14.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/12_17.png"
+    },
+    "2014_28": {
+        "prob": "sets/2014/probs/28.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/24_28.png"
+    },
+    "2014_29": {
+        "prob": "sets/2014/probs/29.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/29_33.png"
+    },
+    "2014_15": {
+        "prob": "sets/2014/probs/15.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/12_17.png"
+    },
+    "2014_17": {
+        "prob": "sets/2014/probs/17.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/12_17.png"
+    },
+    "2014_16": {
+        "prob": "sets/2014/probs/16.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/12_17.png"
+    },
+    "2014_12": {
+        "prob": "sets/2014/probs/12.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/12_17.png"
+    },
+    "2014_13": {
+        "prob": "sets/2014/probs/13.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/12_17.png"
+    },
+    "2014_39": {
+        "prob": "sets/2014/probs/39.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/34_39.png"
+    },
+    "2014_11": {
+        "prob": "sets/2014/probs/11.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/6_11.png"
+    },
+    "2014_10": {
+        "prob": "sets/2014/probs/10.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/6_11.png"
+    },
+    "2014_38": {
+        "prob": "sets/2014/probs/38.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/34_39.png"
+    },
+    "2014_35": {
+        "prob": "sets/2014/probs/35.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/34_39.png"
+    },
+    "2014_21": {
+        "prob": "sets/2014/probs/21.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/18_23.png"
+    },
+    "2014_20": {
+        "prob": "sets/2014/probs/20.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/18_23.png"
+    },
+    "2014_34": {
+        "prob": "sets/2014/probs/34.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/34_39.png"
+    },
+    "2014_22": {
+        "prob": "sets/2014/probs/22.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/18_23.png"
+    },
+    "2014_36": {
+        "prob": "sets/2014/probs/36.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/34_39.png"
+    },
+    "2014_37": {
+        "prob": "sets/2014/probs/37.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/34_39.png"
+    },
+    "2014_23": {
+        "prob": "sets/2014/probs/23.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/18_23.png"
+    },
+    "2014_27": {
+        "prob": "sets/2014/probs/27.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/24_28.png"
+    },
+    "2014_33": {
+        "prob": "sets/2014/probs/33.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/29_33.png"
+    },
+    "2014_32": {
+        "prob": "sets/2014/probs/32.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/29_33.png"
+    },
+    "2014_26": {
+        "prob": "sets/2014/probs/26.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/24_28.png"
+    },
+    "2014_18": {
+        "prob": "sets/2014/probs/18.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/18_23.png"
+    },
+    "2014_30": {
+        "prob": "sets/2014/probs/30.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/29_33.png"
+    },
+    "2014_24": {
+        "prob": "sets/2014/probs/24.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/24_28.png"
+    },
+    "2014_25": {
+        "prob": "sets/2014/probs/25.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/24_28.png"
+    },
+    "2014_31": {
+        "prob": "sets/2014/probs/31.png",
+        "page": "sets/2014/pages/24_33.png",
+        "half": "sets/2014/halves/29_33.png"
+    },
+    "2014_19": {
+        "prob": "sets/2014/probs/19.png",
+        "page": "sets/2014/pages/12_23.png",
+        "half": "sets/2014/halves/18_23.png"
+    },
+    "2014_4": {
+        "prob": "sets/2014/probs/4.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/1_5.png"
+    },
+    "2014_56": {
+        "prob": "sets/2014/probs/56.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_42": {
+        "prob": "sets/2014/probs/42.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/40_44.png"
+    },
+    "2014_43": {
+        "prob": "sets/2014/probs/43.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/40_44.png"
+    },
+    "2014_5": {
+        "prob": "sets/2014/probs/5.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/1_5.png"
+    },
+    "2014_57": {
+        "prob": "sets/2014/probs/57.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_41": {
+        "prob": "sets/2014/probs/41.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/40_44.png"
+    },
+    "2014_55": {
+        "prob": "sets/2014/probs/55.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_7": {
+        "prob": "sets/2014/probs/7.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/6_11.png"
+    },
+    "2014_54": {
+        "prob": "sets/2014/probs/54.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/54_60.png"
+    },
+    "2014_6": {
+        "prob": "sets/2014/probs/6.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/6_11.png"
+    },
+    "2014_40": {
+        "prob": "sets/2014/probs/40.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/40_44.png"
+    },
+    "2014_44": {
+        "prob": "sets/2014/probs/44.png",
+        "page": "sets/2014/pages/34_44.png",
+        "half": "sets/2014/halves/40_44.png"
+    },
+    "2014_2": {
+        "prob": "sets/2014/probs/2.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/1_5.png"
+    },
+    "2014_50": {
+        "prob": "sets/2014/probs/50.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_3": {
+        "prob": "sets/2014/probs/3.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/1_5.png"
+    },
+    "2014_51": {
+        "prob": "sets/2014/probs/51.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_45": {
+        "prob": "sets/2014/probs/45.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_53": {
+        "prob": "sets/2014/probs/53.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_1": {
+        "prob": "sets/2014/probs/1.png",
+        "page": "sets/2014/pages/1_11.png",
+        "half": "sets/2014/halves/1_5.png"
+    },
+    "2014_47": {
+        "prob": "sets/2014/probs/47.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_46": {
+        "prob": "sets/2014/probs/46.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2014_52": {
+        "prob": "sets/2014/probs/52.png",
+        "page": "sets/2014/pages/45_60.png",
+        "half": "sets/2014/halves/45_53.png"
+    },
+    "2015_60": {
+        "prob": "sets/2015/probs/60.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_48": {
+        "prob": "sets/2015/probs/48.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_49": {
+        "prob": "sets/2015/probs/49.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_59": {
+        "prob": "sets/2015/probs/59.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_58": {
+        "prob": "sets/2015/probs/58.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_8": {
+        "prob": "sets/2015/probs/8.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_9": {
+        "prob": "sets/2015/probs/9.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_14": {
+        "prob": "sets/2015/probs/14.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/14_18.png"
+    },
+    "2015_28": {
+        "prob": "sets/2015/probs/28.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_29": {
+        "prob": "sets/2015/probs/29.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_15": {
+        "prob": "sets/2015/probs/15.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/14_18.png"
+    },
+    "2015_17": {
+        "prob": "sets/2015/probs/17.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/14_18.png"
+    },
+    "2015_16": {
+        "prob": "sets/2015/probs/16.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/14_18.png"
+    },
+    "2015_12": {
+        "prob": "sets/2015/probs/12.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_13": {
+        "prob": "sets/2015/probs/13.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_39": {
+        "prob": "sets/2015/probs/39.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/37_42.png"
+    },
+    "2015_11": {
+        "prob": "sets/2015/probs/11.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_10": {
+        "prob": "sets/2015/probs/10.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_38": {
+        "prob": "sets/2015/probs/38.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/37_42.png"
+    },
+    "2015_35": {
+        "prob": "sets/2015/probs/35.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/31_36.png"
+    },
+    "2015_21": {
+        "prob": "sets/2015/probs/21.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/19_23.png"
+    },
+    "2015_20": {
+        "prob": "sets/2015/probs/20.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/19_23.png"
+    },
+    "2015_34": {
+        "prob": "sets/2015/probs/34.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/31_36.png"
+    },
+    "2015_22": {
+        "prob": "sets/2015/probs/22.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/19_23.png"
+    },
+    "2015_36": {
+        "prob": "sets/2015/probs/36.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/31_36.png"
+    },
+    "2015_37": {
+        "prob": "sets/2015/probs/37.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/37_42.png"
+    },
+    "2015_23": {
+        "prob": "sets/2015/probs/23.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/19_23.png"
+    },
+    "2015_27": {
+        "prob": "sets/2015/probs/27.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_33": {
+        "prob": "sets/2015/probs/33.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/31_36.png"
+    },
+    "2015_32": {
+        "prob": "sets/2015/probs/32.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/31_36.png"
+    },
+    "2015_26": {
+        "prob": "sets/2015/probs/26.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_18": {
+        "prob": "sets/2015/probs/18.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/14_18.png"
+    },
+    "2015_30": {
+        "prob": "sets/2015/probs/30.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_24": {
+        "prob": "sets/2015/probs/24.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_25": {
+        "prob": "sets/2015/probs/25.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/24_30.png"
+    },
+    "2015_31": {
+        "prob": "sets/2015/probs/31.png",
+        "page": "sets/2015/pages/24_36.png",
+        "half": "sets/2015/halves/31_36.png"
+    },
+    "2015_19": {
+        "prob": "sets/2015/probs/19.png",
+        "page": "sets/2015/pages/14_23.png",
+        "half": "sets/2015/halves/19_23.png"
+    },
+    "2015_4": {
+        "prob": "sets/2015/probs/4.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/1_6.png"
+    },
+    "2015_56": {
+        "prob": "sets/2015/probs/56.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_42": {
+        "prob": "sets/2015/probs/42.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/37_42.png"
+    },
+    "2015_43": {
+        "prob": "sets/2015/probs/43.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_5": {
+        "prob": "sets/2015/probs/5.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/1_6.png"
+    },
+    "2015_57": {
+        "prob": "sets/2015/probs/57.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_41": {
+        "prob": "sets/2015/probs/41.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/37_42.png"
+    },
+    "2015_55": {
+        "prob": "sets/2015/probs/55.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_7": {
+        "prob": "sets/2015/probs/7.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/7_13.png"
+    },
+    "2015_54": {
+        "prob": "sets/2015/probs/54.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_6": {
+        "prob": "sets/2015/probs/6.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/1_6.png"
+    },
+    "2015_40": {
+        "prob": "sets/2015/probs/40.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/37_42.png"
+    },
+    "2015_44": {
+        "prob": "sets/2015/probs/44.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_2": {
+        "prob": "sets/2015/probs/2.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/1_6.png"
+    },
+    "2015_50": {
+        "prob": "sets/2015/probs/50.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_3": {
+        "prob": "sets/2015/probs/3.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/1_6.png"
+    },
+    "2015_51": {
+        "prob": "sets/2015/probs/51.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_45": {
+        "prob": "sets/2015/probs/45.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_53": {
+        "prob": "sets/2015/probs/53.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2015_1": {
+        "prob": "sets/2015/probs/1.png",
+        "page": "sets/2015/pages/1_13.png",
+        "half": "sets/2015/halves/1_6.png"
+    },
+    "2015_47": {
+        "prob": "sets/2015/probs/47.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_46": {
+        "prob": "sets/2015/probs/46.png",
+        "page": "sets/2015/pages/37_51.png",
+        "half": "sets/2015/halves/43_51.png"
+    },
+    "2015_52": {
+        "prob": "sets/2015/probs/52.png",
+        "page": "sets/2015/pages/52_60.png",
+        "half": "sets/2015/halves/52_60.png"
+    },
+    "2012_60": {
+        "prob": "sets/2012/probs/60.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/59_60.png"
+    },
+    "2012_48": {
+        "prob": "sets/2012/probs/48.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_49": {
+        "prob": "sets/2012/probs/49.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_59": {
+        "prob": "sets/2012/probs/59.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/59_60.png"
+    },
+    "2012_58": {
+        "prob": "sets/2012/probs/58.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2012_8": {
+        "prob": "sets/2012/probs/8.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_9": {
+        "prob": "sets/2012/probs/9.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/9_12.png"
+    },
+    "2012_14": {
+        "prob": "sets/2012/probs/14.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/13_17.png"
+    },
+    "2012_28": {
+        "prob": "sets/2012/probs/28.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/26_30.png"
+    },
+    "2012_29": {
+        "prob": "sets/2012/probs/29.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/26_30.png"
+    },
+    "2012_15": {
+        "prob": "sets/2012/probs/15.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/13_17.png"
+    },
+    "2012_17": {
+        "prob": "sets/2012/probs/17.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/13_17.png"
+    },
+    "2012_16": {
+        "prob": "sets/2012/probs/16.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/13_17.png"
+    },
+    "2012_12": {
+        "prob": "sets/2012/probs/12.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/9_12.png"
+    },
+    "2012_13": {
+        "prob": "sets/2012/probs/13.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/13_17.png"
+    },
+    "2012_39": {
+        "prob": "sets/2012/probs/39.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_11": {
+        "prob": "sets/2012/probs/11.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/9_12.png"
+    },
+    "2012_10": {
+        "prob": "sets/2012/probs/10.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/9_12.png"
+    },
+    "2012_38": {
+        "prob": "sets/2012/probs/38.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_35": {
+        "prob": "sets/2012/probs/35.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/31_36.png"
+    },
+    "2012_21": {
+        "prob": "sets/2012/probs/21.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_20": {
+        "prob": "sets/2012/probs/20.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_34": {
+        "prob": "sets/2012/probs/34.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/31_36.png"
+    },
+    "2012_22": {
+        "prob": "sets/2012/probs/22.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_36": {
+        "prob": "sets/2012/probs/36.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/31_36.png"
+    },
+    "2012_37": {
+        "prob": "sets/2012/probs/37.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_23": {
+        "prob": "sets/2012/probs/23.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_27": {
+        "prob": "sets/2012/probs/27.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/26_30.png"
+    },
+    "2012_33": {
+        "prob": "sets/2012/probs/33.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/31_36.png"
+    },
+    "2012_32": {
+        "prob": "sets/2012/probs/32.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/31_36.png"
+    },
+    "2012_26": {
+        "prob": "sets/2012/probs/26.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/26_30.png"
+    },
+    "2012_18": {
+        "prob": "sets/2012/probs/18.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_30": {
+        "prob": "sets/2012/probs/30.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/26_30.png"
+    },
+    "2012_24": {
+        "prob": "sets/2012/probs/24.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_25": {
+        "prob": "sets/2012/probs/25.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_31": {
+        "prob": "sets/2012/probs/31.png",
+        "page": "sets/2012/pages/26_36.png",
+        "half": "sets/2012/halves/31_36.png"
+    },
+    "2012_19": {
+        "prob": "sets/2012/probs/19.png",
+        "page": "sets/2012/pages/13_25.png",
+        "half": "sets/2012/halves/18_25.png"
+    },
+    "2012_4": {
+        "prob": "sets/2012/probs/4.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_56": {
+        "prob": "sets/2012/probs/56.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2012_42": {
+        "prob": "sets/2012/probs/42.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_43": {
+        "prob": "sets/2012/probs/43.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_5": {
+        "prob": "sets/2012/probs/5.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_57": {
+        "prob": "sets/2012/probs/57.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2012_41": {
+        "prob": "sets/2012/probs/41.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_55": {
+        "prob": "sets/2012/probs/55.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2012_7": {
+        "prob": "sets/2012/probs/7.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_54": {
+        "prob": "sets/2012/probs/54.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2012_6": {
+        "prob": "sets/2012/probs/6.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_40": {
+        "prob": "sets/2012/probs/40.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/37_43.png"
+    },
+    "2012_44": {
+        "prob": "sets/2012/probs/44.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_2": {
+        "prob": "sets/2012/probs/2.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_50": {
+        "prob": "sets/2012/probs/50.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_3": {
+        "prob": "sets/2012/probs/3.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_51": {
+        "prob": "sets/2012/probs/51.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_45": {
+        "prob": "sets/2012/probs/45.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_53": {
+        "prob": "sets/2012/probs/53.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2012_1": {
+        "prob": "sets/2012/probs/1.png",
+        "page": "sets/2012/pages/1_12.png",
+        "half": "sets/2012/halves/1_8.png"
+    },
+    "2012_47": {
+        "prob": "sets/2012/probs/47.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_46": {
+        "prob": "sets/2012/probs/46.png",
+        "page": "sets/2012/pages/37_51.png",
+        "half": "sets/2012/halves/44_51.png"
+    },
+    "2012_52": {
+        "prob": "sets/2012/probs/52.png",
+        "page": "sets/2012/pages/52_60.png",
+        "half": "sets/2012/halves/52_58.png"
+    },
+    "2008_60": {
+        "prob": "sets/2008/probs/60.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_48": {
+        "prob": "sets/2008/probs/48.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_49": {
+        "prob": "sets/2008/probs/49.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_59": {
+        "prob": "sets/2008/probs/59.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_58": {
+        "prob": "sets/2008/probs/58.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_8": {
+        "prob": "sets/2008/probs/8.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_9": {
+        "prob": "sets/2008/probs/9.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_14": {
+        "prob": "sets/2008/probs/14.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_28": {
+        "prob": "sets/2008/probs/28.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/26_31.png"
+    },
+    "2008_29": {
+        "prob": "sets/2008/probs/29.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/26_31.png"
+    },
+    "2008_15": {
+        "prob": "sets/2008/probs/15.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_17": {
+        "prob": "sets/2008/probs/17.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_16": {
+        "prob": "sets/2008/probs/16.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_12": {
+        "prob": "sets/2008/probs/12.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_13": {
+        "prob": "sets/2008/probs/13.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_39": {
+        "prob": "sets/2008/probs/39.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_11": {
+        "prob": "sets/2008/probs/11.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_10": {
+        "prob": "sets/2008/probs/10.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_38": {
+        "prob": "sets/2008/probs/38.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_35": {
+        "prob": "sets/2008/probs/35.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/32_37.png"
+    },
+    "2008_21": {
+        "prob": "sets/2008/probs/21.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/20_25.png"
+    },
+    "2008_20": {
+        "prob": "sets/2008/probs/20.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/20_25.png"
+    },
+    "2008_34": {
+        "prob": "sets/2008/probs/34.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/32_37.png"
+    },
+    "2008_22": {
+        "prob": "sets/2008/probs/22.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/20_25.png"
+    },
+    "2008_36": {
+        "prob": "sets/2008/probs/36.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/32_37.png"
+    },
+    "2008_37": {
+        "prob": "sets/2008/probs/37.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/32_37.png"
+    },
+    "2008_23": {
+        "prob": "sets/2008/probs/23.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/20_25.png"
+    },
+    "2008_27": {
+        "prob": "sets/2008/probs/27.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/26_31.png"
+    },
+    "2008_33": {
+        "prob": "sets/2008/probs/33.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/32_37.png"
+    },
+    "2008_32": {
+        "prob": "sets/2008/probs/32.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/32_37.png"
+    },
+    "2008_26": {
+        "prob": "sets/2008/probs/26.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/26_31.png"
+    },
+    "2008_18": {
+        "prob": "sets/2008/probs/18.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_30": {
+        "prob": "sets/2008/probs/30.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/26_31.png"
+    },
+    "2008_24": {
+        "prob": "sets/2008/probs/24.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/20_25.png"
+    },
+    "2008_25": {
+        "prob": "sets/2008/probs/25.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/20_25.png"
+    },
+    "2008_31": {
+        "prob": "sets/2008/probs/31.png",
+        "page": "sets/2008/pages/26_37.png",
+        "half": "sets/2008/halves/26_31.png"
+    },
+    "2008_19": {
+        "prob": "sets/2008/probs/19.png",
+        "page": "sets/2008/pages/13_25.png",
+        "half": "sets/2008/halves/13_19.png"
+    },
+    "2008_4": {
+        "prob": "sets/2008/probs/4.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/1_5.png"
+    },
+    "2008_56": {
+        "prob": "sets/2008/probs/56.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_42": {
+        "prob": "sets/2008/probs/42.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_43": {
+        "prob": "sets/2008/probs/43.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_5": {
+        "prob": "sets/2008/probs/5.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/1_5.png"
+    },
+    "2008_57": {
+        "prob": "sets/2008/probs/57.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_41": {
+        "prob": "sets/2008/probs/41.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_55": {
+        "prob": "sets/2008/probs/55.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_7": {
+        "prob": "sets/2008/probs/7.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_54": {
+        "prob": "sets/2008/probs/54.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_6": {
+        "prob": "sets/2008/probs/6.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/6_12.png"
+    },
+    "2008_40": {
+        "prob": "sets/2008/probs/40.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_44": {
+        "prob": "sets/2008/probs/44.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/38_44.png"
+    },
+    "2008_2": {
+        "prob": "sets/2008/probs/2.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/1_5.png"
+    },
+    "2008_50": {
+        "prob": "sets/2008/probs/50.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_3": {
+        "prob": "sets/2008/probs/3.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/1_5.png"
+    },
+    "2008_51": {
+        "prob": "sets/2008/probs/51.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_45": {
+        "prob": "sets/2008/probs/45.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_53": {
+        "prob": "sets/2008/probs/53.png",
+        "page": "sets/2008/pages/53_60.png",
+        "half": "sets/2008/halves/53_60.png"
+    },
+    "2008_1": {
+        "prob": "sets/2008/probs/1.png",
+        "page": "sets/2008/pages/1_12.png",
+        "half": "sets/2008/halves/1_5.png"
+    },
+    "2008_47": {
+        "prob": "sets/2008/probs/47.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_46": {
+        "prob": "sets/2008/probs/46.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2008_52": {
+        "prob": "sets/2008/probs/52.png",
+        "page": "sets/2008/pages/38_52.png",
+        "half": "sets/2008/halves/45_52.png"
+    },
+    "2001_60": {
+        "prob": "sets/2001/probs/60.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/55_60.png"
+    },
+    "2001_48": {
+        "prob": "sets/2001/probs/48.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_49": {
+        "prob": "sets/2001/probs/49.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/49_54.png"
+    },
+    "2001_59": {
+        "prob": "sets/2001/probs/59.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/55_60.png"
+    },
+    "2001_58": {
+        "prob": "sets/2001/probs/58.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/55_60.png"
+    },
+    "2001_8": {
+        "prob": "sets/2001/probs/8.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/8_12.png"
+    },
+    "2001_9": {
+        "prob": "sets/2001/probs/9.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/8_12.png"
+    },
+    "2001_14": {
+        "prob": "sets/2001/probs/14.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/13_18.png"
+    },
+    "2001_28": {
+        "prob": "sets/2001/probs/28.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_29": {
+        "prob": "sets/2001/probs/29.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_15": {
+        "prob": "sets/2001/probs/15.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/13_18.png"
+    },
+    "2001_17": {
+        "prob": "sets/2001/probs/17.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/13_18.png"
+    },
+    "2001_16": {
+        "prob": "sets/2001/probs/16.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/13_18.png"
+    },
+    "2001_12": {
+        "prob": "sets/2001/probs/12.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/8_12.png"
+    },
+    "2001_13": {
+        "prob": "sets/2001/probs/13.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/13_18.png"
+    },
+    "2001_39": {
+        "prob": "sets/2001/probs/39.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/36_41.png"
+    },
+    "2001_11": {
+        "prob": "sets/2001/probs/11.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/8_12.png"
+    },
+    "2001_10": {
+        "prob": "sets/2001/probs/10.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/8_12.png"
+    },
+    "2001_38": {
+        "prob": "sets/2001/probs/38.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/36_41.png"
+    },
+    "2001_35": {
+        "prob": "sets/2001/probs/35.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/31_35.png"
+    },
+    "2001_21": {
+        "prob": "sets/2001/probs/21.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/19_23.png"
+    },
+    "2001_20": {
+        "prob": "sets/2001/probs/20.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/19_23.png"
+    },
+    "2001_34": {
+        "prob": "sets/2001/probs/34.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/31_35.png"
+    },
+    "2001_22": {
+        "prob": "sets/2001/probs/22.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/19_23.png"
+    },
+    "2001_36": {
+        "prob": "sets/2001/probs/36.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/36_41.png"
+    },
+    "2001_37": {
+        "prob": "sets/2001/probs/37.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/36_41.png"
+    },
+    "2001_23": {
+        "prob": "sets/2001/probs/23.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/19_23.png"
+    },
+    "2001_27": {
+        "prob": "sets/2001/probs/27.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_33": {
+        "prob": "sets/2001/probs/33.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/31_35.png"
+    },
+    "2001_32": {
+        "prob": "sets/2001/probs/32.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/31_35.png"
+    },
+    "2001_26": {
+        "prob": "sets/2001/probs/26.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_18": {
+        "prob": "sets/2001/probs/18.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/13_18.png"
+    },
+    "2001_30": {
+        "prob": "sets/2001/probs/30.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_24": {
+        "prob": "sets/2001/probs/24.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_25": {
+        "prob": "sets/2001/probs/25.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/24_30.png"
+    },
+    "2001_31": {
+        "prob": "sets/2001/probs/31.png",
+        "page": "sets/2001/pages/24_35.png",
+        "half": "sets/2001/halves/31_35.png"
+    },
+    "2001_19": {
+        "prob": "sets/2001/probs/19.png",
+        "page": "sets/2001/pages/13_23.png",
+        "half": "sets/2001/halves/19_23.png"
+    },
+    "2001_4": {
+        "prob": "sets/2001/probs/4.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_56": {
+        "prob": "sets/2001/probs/56.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/55_60.png"
+    },
+    "2001_42": {
+        "prob": "sets/2001/probs/42.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_43": {
+        "prob": "sets/2001/probs/43.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_5": {
+        "prob": "sets/2001/probs/5.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_57": {
+        "prob": "sets/2001/probs/57.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/55_60.png"
+    },
+    "2001_41": {
+        "prob": "sets/2001/probs/41.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/36_41.png"
+    },
+    "2001_55": {
+        "prob": "sets/2001/probs/55.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/55_60.png"
+    },
+    "2001_7": {
+        "prob": "sets/2001/probs/7.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_54": {
+        "prob": "sets/2001/probs/54.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/49_54.png"
+    },
+    "2001_6": {
+        "prob": "sets/2001/probs/6.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_40": {
+        "prob": "sets/2001/probs/40.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/36_41.png"
+    },
+    "2001_44": {
+        "prob": "sets/2001/probs/44.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_2": {
+        "prob": "sets/2001/probs/2.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_50": {
+        "prob": "sets/2001/probs/50.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/49_54.png"
+    },
+    "2001_3": {
+        "prob": "sets/2001/probs/3.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_51": {
+        "prob": "sets/2001/probs/51.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/49_54.png"
+    },
+    "2001_45": {
+        "prob": "sets/2001/probs/45.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_53": {
+        "prob": "sets/2001/probs/53.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/49_54.png"
+    },
+    "2001_1": {
+        "prob": "sets/2001/probs/1.png",
+        "page": "sets/2001/pages/1_12.png",
+        "half": "sets/2001/halves/1_7.png"
+    },
+    "2001_47": {
+        "prob": "sets/2001/probs/47.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_46": {
+        "prob": "sets/2001/probs/46.png",
+        "page": "sets/2001/pages/36_48.png",
+        "half": "sets/2001/halves/42_48.png"
+    },
+    "2001_52": {
+        "prob": "sets/2001/probs/52.png",
+        "page": "sets/2001/pages/49_60.png",
+        "half": "sets/2001/halves/49_54.png"
+    },
+    "2006_60": {
+        "prob": "sets/2006/probs/60.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_48": {
+        "prob": "sets/2006/probs/48.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_49": {
+        "prob": "sets/2006/probs/49.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_59": {
+        "prob": "sets/2006/probs/59.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_58": {
+        "prob": "sets/2006/probs/58.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_8": {
+        "prob": "sets/2006/probs/8.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/6_11.png"
+    },
+    "2006_9": {
+        "prob": "sets/2006/probs/9.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/6_11.png"
+    },
+    "2006_14": {
+        "prob": "sets/2006/probs/14.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/12_17.png"
+    },
+    "2006_28": {
+        "prob": "sets/2006/probs/28.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/24_29.png"
+    },
+    "2006_29": {
+        "prob": "sets/2006/probs/29.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/24_29.png"
+    },
+    "2006_15": {
+        "prob": "sets/2006/probs/15.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/12_17.png"
+    },
+    "2006_17": {
+        "prob": "sets/2006/probs/17.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/12_17.png"
+    },
+    "2006_16": {
+        "prob": "sets/2006/probs/16.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/12_17.png"
+    },
+    "2006_12": {
+        "prob": "sets/2006/probs/12.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/12_17.png"
+    },
+    "2006_13": {
+        "prob": "sets/2006/probs/13.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/12_17.png"
+    },
+    "2006_39": {
+        "prob": "sets/2006/probs/39.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_11": {
+        "prob": "sets/2006/probs/11.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/6_11.png"
+    },
+    "2006_10": {
+        "prob": "sets/2006/probs/10.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/6_11.png"
+    },
+    "2006_38": {
+        "prob": "sets/2006/probs/38.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_35": {
+        "prob": "sets/2006/probs/35.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/30_35.png"
+    },
+    "2006_21": {
+        "prob": "sets/2006/probs/21.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/18_23.png"
+    },
+    "2006_20": {
+        "prob": "sets/2006/probs/20.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/18_23.png"
+    },
+    "2006_34": {
+        "prob": "sets/2006/probs/34.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/30_35.png"
+    },
+    "2006_22": {
+        "prob": "sets/2006/probs/22.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/18_23.png"
+    },
+    "2006_36": {
+        "prob": "sets/2006/probs/36.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_37": {
+        "prob": "sets/2006/probs/37.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_23": {
+        "prob": "sets/2006/probs/23.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/18_23.png"
+    },
+    "2006_27": {
+        "prob": "sets/2006/probs/27.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/24_29.png"
+    },
+    "2006_33": {
+        "prob": "sets/2006/probs/33.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/30_35.png"
+    },
+    "2006_32": {
+        "prob": "sets/2006/probs/32.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/30_35.png"
+    },
+    "2006_26": {
+        "prob": "sets/2006/probs/26.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/24_29.png"
+    },
+    "2006_18": {
+        "prob": "sets/2006/probs/18.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/18_23.png"
+    },
+    "2006_30": {
+        "prob": "sets/2006/probs/30.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/30_35.png"
+    },
+    "2006_24": {
+        "prob": "sets/2006/probs/24.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/24_29.png"
+    },
+    "2006_25": {
+        "prob": "sets/2006/probs/25.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/24_29.png"
+    },
+    "2006_31": {
+        "prob": "sets/2006/probs/31.png",
+        "page": "sets/2006/pages/24_35.png",
+        "half": "sets/2006/halves/30_35.png"
+    },
+    "2006_19": {
+        "prob": "sets/2006/probs/19.png",
+        "page": "sets/2006/pages/12_23.png",
+        "half": "sets/2006/halves/18_23.png"
+    },
+    "2006_4": {
+        "prob": "sets/2006/probs/4.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/1_5.png"
+    },
+    "2006_56": {
+        "prob": "sets/2006/probs/56.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_42": {
+        "prob": "sets/2006/probs/42.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_43": {
+        "prob": "sets/2006/probs/43.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_5": {
+        "prob": "sets/2006/probs/5.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/1_5.png"
+    },
+    "2006_57": {
+        "prob": "sets/2006/probs/57.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_41": {
+        "prob": "sets/2006/probs/41.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_55": {
+        "prob": "sets/2006/probs/55.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_7": {
+        "prob": "sets/2006/probs/7.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/6_11.png"
+    },
+    "2006_54": {
+        "prob": "sets/2006/probs/54.png",
+        "page": "sets/2006/pages/54_60.png",
+        "half": "sets/2006/halves/54_60.png"
+    },
+    "2006_6": {
+        "prob": "sets/2006/probs/6.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/6_11.png"
+    },
+    "2006_40": {
+        "prob": "sets/2006/probs/40.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_44": {
+        "prob": "sets/2006/probs/44.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/36_44.png"
+    },
+    "2006_2": {
+        "prob": "sets/2006/probs/2.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/1_5.png"
+    },
+    "2006_50": {
+        "prob": "sets/2006/probs/50.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_3": {
+        "prob": "sets/2006/probs/3.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/1_5.png"
+    },
+    "2006_51": {
+        "prob": "sets/2006/probs/51.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_45": {
+        "prob": "sets/2006/probs/45.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_53": {
+        "prob": "sets/2006/probs/53.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_1": {
+        "prob": "sets/2006/probs/1.png",
+        "page": "sets/2006/pages/1_11.png",
+        "half": "sets/2006/halves/1_5.png"
+    },
+    "2006_47": {
+        "prob": "sets/2006/probs/47.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_46": {
+        "prob": "sets/2006/probs/46.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2006_52": {
+        "prob": "sets/2006/probs/52.png",
+        "page": "sets/2006/pages/36_53.png",
+        "half": "sets/2006/halves/45_53.png"
+    },
+    "2007_60": {
+        "prob": "sets/2007/probs/60.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/56_60.png"
+    },
+    "2007_48": {
+        "prob": "sets/2007/probs/48.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_49": {
+        "prob": "sets/2007/probs/49.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2007_59": {
+        "prob": "sets/2007/probs/59.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/56_60.png"
+    },
+    "2007_58": {
+        "prob": "sets/2007/probs/58.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/56_60.png"
+    },
+    "2007_8": {
+        "prob": "sets/2007/probs/8.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/6_10.png"
+    },
+    "2007_9": {
+        "prob": "sets/2007/probs/9.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/6_10.png"
+    },
+    "2007_14": {
+        "prob": "sets/2007/probs/14.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/11_14.png"
+    },
+    "2007_28": {
+        "prob": "sets/2007/probs/28.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/28_31.png"
+    },
+    "2007_29": {
+        "prob": "sets/2007/probs/29.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/28_31.png"
+    },
+    "2007_15": {
+        "prob": "sets/2007/probs/15.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_17": {
+        "prob": "sets/2007/probs/17.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_16": {
+        "prob": "sets/2007/probs/16.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_12": {
+        "prob": "sets/2007/probs/12.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/11_14.png"
+    },
+    "2007_13": {
+        "prob": "sets/2007/probs/13.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/11_14.png"
+    },
+    "2007_39": {
+        "prob": "sets/2007/probs/39.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_11": {
+        "prob": "sets/2007/probs/11.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/11_14.png"
+    },
+    "2007_10": {
+        "prob": "sets/2007/probs/10.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/6_10.png"
+    },
+    "2007_38": {
+        "prob": "sets/2007/probs/38.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_35": {
+        "prob": "sets/2007/probs/35.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_21": {
+        "prob": "sets/2007/probs/21.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_20": {
+        "prob": "sets/2007/probs/20.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_34": {
+        "prob": "sets/2007/probs/34.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_22": {
+        "prob": "sets/2007/probs/22.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_36": {
+        "prob": "sets/2007/probs/36.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_37": {
+        "prob": "sets/2007/probs/37.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_23": {
+        "prob": "sets/2007/probs/23.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_27": {
+        "prob": "sets/2007/probs/27.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/24_27.png"
+    },
+    "2007_33": {
+        "prob": "sets/2007/probs/33.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_32": {
+        "prob": "sets/2007/probs/32.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/32_39.png"
+    },
+    "2007_26": {
+        "prob": "sets/2007/probs/26.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/24_27.png"
+    },
+    "2007_18": {
+        "prob": "sets/2007/probs/18.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_30": {
+        "prob": "sets/2007/probs/30.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/28_31.png"
+    },
+    "2007_24": {
+        "prob": "sets/2007/probs/24.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/24_27.png"
+    },
+    "2007_25": {
+        "prob": "sets/2007/probs/25.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/24_27.png"
+    },
+    "2007_31": {
+        "prob": "sets/2007/probs/31.png",
+        "page": "sets/2007/pages/24_31.png",
+        "half": "sets/2007/halves/28_31.png"
+    },
+    "2007_19": {
+        "prob": "sets/2007/probs/19.png",
+        "page": "sets/2007/pages/11_23.png",
+        "half": "sets/2007/halves/15_23.png"
+    },
+    "2007_4": {
+        "prob": "sets/2007/probs/4.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/1_5.png"
+    },
+    "2007_56": {
+        "prob": "sets/2007/probs/56.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/56_60.png"
+    },
+    "2007_42": {
+        "prob": "sets/2007/probs/42.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_43": {
+        "prob": "sets/2007/probs/43.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_5": {
+        "prob": "sets/2007/probs/5.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/1_5.png"
+    },
+    "2007_57": {
+        "prob": "sets/2007/probs/57.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/56_60.png"
+    },
+    "2007_41": {
+        "prob": "sets/2007/probs/41.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_55": {
+        "prob": "sets/2007/probs/55.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2007_7": {
+        "prob": "sets/2007/probs/7.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/6_10.png"
+    },
+    "2007_54": {
+        "prob": "sets/2007/probs/54.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2007_6": {
+        "prob": "sets/2007/probs/6.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/6_10.png"
+    },
+    "2007_40": {
+        "prob": "sets/2007/probs/40.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_44": {
+        "prob": "sets/2007/probs/44.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_2": {
+        "prob": "sets/2007/probs/2.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/1_5.png"
+    },
+    "2007_50": {
+        "prob": "sets/2007/probs/50.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2007_3": {
+        "prob": "sets/2007/probs/3.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/1_5.png"
+    },
+    "2007_51": {
+        "prob": "sets/2007/probs/51.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2007_45": {
+        "prob": "sets/2007/probs/45.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_53": {
+        "prob": "sets/2007/probs/53.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2007_1": {
+        "prob": "sets/2007/probs/1.png",
+        "page": "sets/2007/pages/1_10.png",
+        "half": "sets/2007/halves/1_5.png"
+    },
+    "2007_47": {
+        "prob": "sets/2007/probs/47.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_46": {
+        "prob": "sets/2007/probs/46.png",
+        "page": "sets/2007/pages/32_48.png",
+        "half": "sets/2007/halves/40_48.png"
+    },
+    "2007_52": {
+        "prob": "sets/2007/probs/52.png",
+        "page": "sets/2007/pages/49_60.png",
+        "half": "sets/2007/halves/49_55.png"
+    },
+    "2000_60": {
+        "prob": "sets/2000/probs/60.png",
+        "page": "sets/2000/pages/56_60.png",
+        "half": "sets/2000/halves/59_60.png"
+    },
+    "2000_48": {
+        "prob": "sets/2000/probs/48.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_49": {
+        "prob": "sets/2000/probs/49.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_59": {
+        "prob": "sets/2000/probs/59.png",
+        "page": "sets/2000/pages/56_60.png",
+        "half": "sets/2000/halves/59_60.png"
+    },
+    "2000_58": {
+        "prob": "sets/2000/probs/58.png",
+        "page": "sets/2000/pages/56_60.png",
+        "half": "sets/2000/halves/56_58.png"
+    },
+    "2000_8": {
+        "prob": "sets/2000/probs/8.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/7_12.png"
+    },
+    "2000_9": {
+        "prob": "sets/2000/probs/9.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/7_12.png"
+    },
+    "2000_14": {
+        "prob": "sets/2000/probs/14.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_28": {
+        "prob": "sets/2000/probs/28.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/28_32.png"
+    },
+    "2000_29": {
+        "prob": "sets/2000/probs/29.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/28_32.png"
+    },
+    "2000_15": {
+        "prob": "sets/2000/probs/15.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_17": {
+        "prob": "sets/2000/probs/17.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_16": {
+        "prob": "sets/2000/probs/16.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_12": {
+        "prob": "sets/2000/probs/12.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/7_12.png"
+    },
+    "2000_13": {
+        "prob": "sets/2000/probs/13.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_39": {
+        "prob": "sets/2000/probs/39.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_11": {
+        "prob": "sets/2000/probs/11.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/7_12.png"
+    },
+    "2000_10": {
+        "prob": "sets/2000/probs/10.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/7_12.png"
+    },
+    "2000_38": {
+        "prob": "sets/2000/probs/38.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_35": {
+        "prob": "sets/2000/probs/35.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_21": {
+        "prob": "sets/2000/probs/21.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_20": {
+        "prob": "sets/2000/probs/20.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_34": {
+        "prob": "sets/2000/probs/34.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_22": {
+        "prob": "sets/2000/probs/22.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_36": {
+        "prob": "sets/2000/probs/36.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_37": {
+        "prob": "sets/2000/probs/37.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_23": {
+        "prob": "sets/2000/probs/23.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_27": {
+        "prob": "sets/2000/probs/27.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_33": {
+        "prob": "sets/2000/probs/33.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/33_39.png"
+    },
+    "2000_32": {
+        "prob": "sets/2000/probs/32.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/28_32.png"
+    },
+    "2000_26": {
+        "prob": "sets/2000/probs/26.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_18": {
+        "prob": "sets/2000/probs/18.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_30": {
+        "prob": "sets/2000/probs/30.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/28_32.png"
+    },
+    "2000_24": {
+        "prob": "sets/2000/probs/24.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_25": {
+        "prob": "sets/2000/probs/25.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/20_27.png"
+    },
+    "2000_31": {
+        "prob": "sets/2000/probs/31.png",
+        "page": "sets/2000/pages/28_39.png",
+        "half": "sets/2000/halves/28_32.png"
+    },
+    "2000_19": {
+        "prob": "sets/2000/probs/19.png",
+        "page": "sets/2000/pages/13_27.png",
+        "half": "sets/2000/halves/13_19.png"
+    },
+    "2000_4": {
+        "prob": "sets/2000/probs/4.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/1_6.png"
+    },
+    "2000_56": {
+        "prob": "sets/2000/probs/56.png",
+        "page": "sets/2000/pages/56_60.png",
+        "half": "sets/2000/halves/56_58.png"
+    },
+    "2000_42": {
+        "prob": "sets/2000/probs/42.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/40_44.png"
+    },
+    "2000_43": {
+        "prob": "sets/2000/probs/43.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/40_44.png"
+    },
+    "2000_5": {
+        "prob": "sets/2000/probs/5.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/1_6.png"
+    },
+    "2000_57": {
+        "prob": "sets/2000/probs/57.png",
+        "page": "sets/2000/pages/56_60.png",
+        "half": "sets/2000/halves/56_58.png"
+    },
+    "2000_41": {
+        "prob": "sets/2000/probs/41.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/40_44.png"
+    },
+    "2000_55": {
+        "prob": "sets/2000/probs/55.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_7": {
+        "prob": "sets/2000/probs/7.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/7_12.png"
+    },
+    "2000_54": {
+        "prob": "sets/2000/probs/54.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_6": {
+        "prob": "sets/2000/probs/6.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/1_6.png"
+    },
+    "2000_40": {
+        "prob": "sets/2000/probs/40.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/40_44.png"
+    },
+    "2000_44": {
+        "prob": "sets/2000/probs/44.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/40_44.png"
+    },
+    "2000_2": {
+        "prob": "sets/2000/probs/2.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/1_6.png"
+    },
+    "2000_50": {
+        "prob": "sets/2000/probs/50.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_3": {
+        "prob": "sets/2000/probs/3.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/1_6.png"
+    },
+    "2000_51": {
+        "prob": "sets/2000/probs/51.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_45": {
+        "prob": "sets/2000/probs/45.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_53": {
+        "prob": "sets/2000/probs/53.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_1": {
+        "prob": "sets/2000/probs/1.png",
+        "page": "sets/2000/pages/1_12.png",
+        "half": "sets/2000/halves/1_6.png"
+    },
+    "2000_47": {
+        "prob": "sets/2000/probs/47.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_46": {
+        "prob": "sets/2000/probs/46.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2000_52": {
+        "prob": "sets/2000/probs/52.png",
+        "page": "sets/2000/pages/40_55.png",
+        "half": "sets/2000/halves/45_55.png"
+    },
+    "2009_60": {
+        "prob": "sets/2009/probs/60.png",
+        "page": "sets/2009/pages/58_60.png",
+        "half": "sets/2009/halves/58_60.png"
+    },
+    "2009_48": {
+        "prob": "sets/2009/probs/48.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_49": {
+        "prob": "sets/2009/probs/49.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_59": {
+        "prob": "sets/2009/probs/59.png",
+        "page": "sets/2009/pages/58_60.png",
+        "half": "sets/2009/halves/58_60.png"
+    },
+    "2009_58": {
+        "prob": "sets/2009/probs/58.png",
+        "page": "sets/2009/pages/58_60.png",
+        "half": "sets/2009/halves/58_60.png"
+    },
+    "2009_8": {
+        "prob": "sets/2009/probs/8.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_9": {
+        "prob": "sets/2009/probs/9.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_14": {
+        "prob": "sets/2009/probs/14.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_28": {
+        "prob": "sets/2009/probs/28.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/27_32.png"
+    },
+    "2009_29": {
+        "prob": "sets/2009/probs/29.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/27_32.png"
+    },
+    "2009_15": {
+        "prob": "sets/2009/probs/15.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_17": {
+        "prob": "sets/2009/probs/17.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_16": {
+        "prob": "sets/2009/probs/16.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_12": {
+        "prob": "sets/2009/probs/12.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_13": {
+        "prob": "sets/2009/probs/13.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_39": {
+        "prob": "sets/2009/probs/39.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_11": {
+        "prob": "sets/2009/probs/11.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_10": {
+        "prob": "sets/2009/probs/10.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_38": {
+        "prob": "sets/2009/probs/38.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_35": {
+        "prob": "sets/2009/probs/35.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_21": {
+        "prob": "sets/2009/probs/21.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/21_26.png"
+    },
+    "2009_20": {
+        "prob": "sets/2009/probs/20.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_34": {
+        "prob": "sets/2009/probs/34.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_22": {
+        "prob": "sets/2009/probs/22.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/21_26.png"
+    },
+    "2009_36": {
+        "prob": "sets/2009/probs/36.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_37": {
+        "prob": "sets/2009/probs/37.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_23": {
+        "prob": "sets/2009/probs/23.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/21_26.png"
+    },
+    "2009_27": {
+        "prob": "sets/2009/probs/27.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/27_32.png"
+    },
+    "2009_33": {
+        "prob": "sets/2009/probs/33.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/33_39.png"
+    },
+    "2009_32": {
+        "prob": "sets/2009/probs/32.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/27_32.png"
+    },
+    "2009_26": {
+        "prob": "sets/2009/probs/26.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/21_26.png"
+    },
+    "2009_18": {
+        "prob": "sets/2009/probs/18.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_30": {
+        "prob": "sets/2009/probs/30.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/27_32.png"
+    },
+    "2009_24": {
+        "prob": "sets/2009/probs/24.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/21_26.png"
+    },
+    "2009_25": {
+        "prob": "sets/2009/probs/25.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/21_26.png"
+    },
+    "2009_31": {
+        "prob": "sets/2009/probs/31.png",
+        "page": "sets/2009/pages/27_39.png",
+        "half": "sets/2009/halves/27_32.png"
+    },
+    "2009_19": {
+        "prob": "sets/2009/probs/19.png",
+        "page": "sets/2009/pages/14_26.png",
+        "half": "sets/2009/halves/14_20.png"
+    },
+    "2009_4": {
+        "prob": "sets/2009/probs/4.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/1_6.png"
+    },
+    "2009_56": {
+        "prob": "sets/2009/probs/56.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_42": {
+        "prob": "sets/2009/probs/42.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_43": {
+        "prob": "sets/2009/probs/43.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_5": {
+        "prob": "sets/2009/probs/5.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/1_6.png"
+    },
+    "2009_57": {
+        "prob": "sets/2009/probs/57.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_41": {
+        "prob": "sets/2009/probs/41.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_55": {
+        "prob": "sets/2009/probs/55.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_7": {
+        "prob": "sets/2009/probs/7.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/7_13.png"
+    },
+    "2009_54": {
+        "prob": "sets/2009/probs/54.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_6": {
+        "prob": "sets/2009/probs/6.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/1_6.png"
+    },
+    "2009_40": {
+        "prob": "sets/2009/probs/40.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_44": {
+        "prob": "sets/2009/probs/44.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_2": {
+        "prob": "sets/2009/probs/2.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/1_6.png"
+    },
+    "2009_50": {
+        "prob": "sets/2009/probs/50.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_3": {
+        "prob": "sets/2009/probs/3.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/1_6.png"
+    },
+    "2009_51": {
+        "prob": "sets/2009/probs/51.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_45": {
+        "prob": "sets/2009/probs/45.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_53": {
+        "prob": "sets/2009/probs/53.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2009_1": {
+        "prob": "sets/2009/probs/1.png",
+        "page": "sets/2009/pages/1_13.png",
+        "half": "sets/2009/halves/1_6.png"
+    },
+    "2009_47": {
+        "prob": "sets/2009/probs/47.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_46": {
+        "prob": "sets/2009/probs/46.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/40_47.png"
+    },
+    "2009_52": {
+        "prob": "sets/2009/probs/52.png",
+        "page": "sets/2009/pages/40_57.png",
+        "half": "sets/2009/halves/48_57.png"
+    },
+    "2011_60": {
+        "prob": "sets/2011/probs/60.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/59_60.png"
+    },
+    "2011_48": {
+        "prob": "sets/2011/probs/48.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_49": {
+        "prob": "sets/2011/probs/49.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_59": {
+        "prob": "sets/2011/probs/59.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/59_60.png"
+    },
+    "2011_58": {
+        "prob": "sets/2011/probs/58.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_8": {
+        "prob": "sets/2011/probs/8.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/6_9.png"
+    },
+    "2011_9": {
+        "prob": "sets/2011/probs/9.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/6_9.png"
+    },
+    "2011_14": {
+        "prob": "sets/2011/probs/14.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_28": {
+        "prob": "sets/2011/probs/28.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/24_28.png"
+    },
+    "2011_29": {
+        "prob": "sets/2011/probs/29.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/29_33.png"
+    },
+    "2011_15": {
+        "prob": "sets/2011/probs/15.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_17": {
+        "prob": "sets/2011/probs/17.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_16": {
+        "prob": "sets/2011/probs/16.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_12": {
+        "prob": "sets/2011/probs/12.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_13": {
+        "prob": "sets/2011/probs/13.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_39": {
+        "prob": "sets/2011/probs/39.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_11": {
+        "prob": "sets/2011/probs/11.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_10": {
+        "prob": "sets/2011/probs/10.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/10_17.png"
+    },
+    "2011_38": {
+        "prob": "sets/2011/probs/38.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_35": {
+        "prob": "sets/2011/probs/35.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_21": {
+        "prob": "sets/2011/probs/21.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/18_23.png"
+    },
+    "2011_20": {
+        "prob": "sets/2011/probs/20.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/18_23.png"
+    },
+    "2011_34": {
+        "prob": "sets/2011/probs/34.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_22": {
+        "prob": "sets/2011/probs/22.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/18_23.png"
+    },
+    "2011_36": {
+        "prob": "sets/2011/probs/36.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_37": {
+        "prob": "sets/2011/probs/37.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_23": {
+        "prob": "sets/2011/probs/23.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/18_23.png"
+    },
+    "2011_27": {
+        "prob": "sets/2011/probs/27.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/24_28.png"
+    },
+    "2011_33": {
+        "prob": "sets/2011/probs/33.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/29_33.png"
+    },
+    "2011_32": {
+        "prob": "sets/2011/probs/32.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/29_33.png"
+    },
+    "2011_26": {
+        "prob": "sets/2011/probs/26.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/24_28.png"
+    },
+    "2011_18": {
+        "prob": "sets/2011/probs/18.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/18_23.png"
+    },
+    "2011_30": {
+        "prob": "sets/2011/probs/30.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/29_33.png"
+    },
+    "2011_24": {
+        "prob": "sets/2011/probs/24.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/24_28.png"
+    },
+    "2011_25": {
+        "prob": "sets/2011/probs/25.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/24_28.png"
+    },
+    "2011_31": {
+        "prob": "sets/2011/probs/31.png",
+        "page": "sets/2011/pages/24_33.png",
+        "half": "sets/2011/halves/29_33.png"
+    },
+    "2011_19": {
+        "prob": "sets/2011/probs/19.png",
+        "page": "sets/2011/pages/10_23.png",
+        "half": "sets/2011/halves/18_23.png"
+    },
+    "2011_4": {
+        "prob": "sets/2011/probs/4.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/1_5.png"
+    },
+    "2011_56": {
+        "prob": "sets/2011/probs/56.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_42": {
+        "prob": "sets/2011/probs/42.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_43": {
+        "prob": "sets/2011/probs/43.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_5": {
+        "prob": "sets/2011/probs/5.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/1_5.png"
+    },
+    "2011_57": {
+        "prob": "sets/2011/probs/57.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_41": {
+        "prob": "sets/2011/probs/41.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_55": {
+        "prob": "sets/2011/probs/55.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_7": {
+        "prob": "sets/2011/probs/7.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/6_9.png"
+    },
+    "2011_54": {
+        "prob": "sets/2011/probs/54.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_6": {
+        "prob": "sets/2011/probs/6.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/6_9.png"
+    },
+    "2011_40": {
+        "prob": "sets/2011/probs/40.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/34_40.png"
+    },
+    "2011_44": {
+        "prob": "sets/2011/probs/44.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_2": {
+        "prob": "sets/2011/probs/2.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/1_5.png"
+    },
+    "2011_50": {
+        "prob": "sets/2011/probs/50.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_3": {
+        "prob": "sets/2011/probs/3.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/1_5.png"
+    },
+    "2011_51": {
+        "prob": "sets/2011/probs/51.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_45": {
+        "prob": "sets/2011/probs/45.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_53": {
+        "prob": "sets/2011/probs/53.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2011_1": {
+        "prob": "sets/2011/probs/1.png",
+        "page": "sets/2011/pages/1_9.png",
+        "half": "sets/2011/halves/1_5.png"
+    },
+    "2011_47": {
+        "prob": "sets/2011/probs/47.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_46": {
+        "prob": "sets/2011/probs/46.png",
+        "page": "sets/2011/pages/34_48.png",
+        "half": "sets/2011/halves/41_48.png"
+    },
+    "2011_52": {
+        "prob": "sets/2011/probs/52.png",
+        "page": "sets/2011/pages/49_60.png",
+        "half": "sets/2011/halves/49_58.png"
+    },
+    "2005_60": {
+        "prob": "sets/2005/probs/60.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/58_60.png"
+    },
+    "2005_48": {
+        "prob": "sets/2005/probs/48.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_49": {
+        "prob": "sets/2005/probs/49.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_59": {
+        "prob": "sets/2005/probs/59.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/58_60.png"
+    },
+    "2005_58": {
+        "prob": "sets/2005/probs/58.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/58_60.png"
+    },
+    "2005_8": {
+        "prob": "sets/2005/probs/8.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/6_9.png"
+    },
+    "2005_9": {
+        "prob": "sets/2005/probs/9.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/6_9.png"
+    },
+    "2005_14": {
+        "prob": "sets/2005/probs/14.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_28": {
+        "prob": "sets/2005/probs/28.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/23_28.png"
+    },
+    "2005_29": {
+        "prob": "sets/2005/probs/29.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_15": {
+        "prob": "sets/2005/probs/15.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_17": {
+        "prob": "sets/2005/probs/17.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_16": {
+        "prob": "sets/2005/probs/16.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_12": {
+        "prob": "sets/2005/probs/12.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_13": {
+        "prob": "sets/2005/probs/13.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_39": {
+        "prob": "sets/2005/probs/39.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/36_41.png"
+    },
+    "2005_11": {
+        "prob": "sets/2005/probs/11.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_10": {
+        "prob": "sets/2005/probs/10.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/10_17.png"
+    },
+    "2005_38": {
+        "prob": "sets/2005/probs/38.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/36_41.png"
+    },
+    "2005_35": {
+        "prob": "sets/2005/probs/35.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_21": {
+        "prob": "sets/2005/probs/21.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/18_22.png"
+    },
+    "2005_20": {
+        "prob": "sets/2005/probs/20.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/18_22.png"
+    },
+    "2005_34": {
+        "prob": "sets/2005/probs/34.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_22": {
+        "prob": "sets/2005/probs/22.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/18_22.png"
+    },
+    "2005_36": {
+        "prob": "sets/2005/probs/36.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/36_41.png"
+    },
+    "2005_37": {
+        "prob": "sets/2005/probs/37.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/36_41.png"
+    },
+    "2005_23": {
+        "prob": "sets/2005/probs/23.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/23_28.png"
+    },
+    "2005_27": {
+        "prob": "sets/2005/probs/27.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/23_28.png"
+    },
+    "2005_33": {
+        "prob": "sets/2005/probs/33.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_32": {
+        "prob": "sets/2005/probs/32.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_26": {
+        "prob": "sets/2005/probs/26.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/23_28.png"
+    },
+    "2005_18": {
+        "prob": "sets/2005/probs/18.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/18_22.png"
+    },
+    "2005_30": {
+        "prob": "sets/2005/probs/30.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_24": {
+        "prob": "sets/2005/probs/24.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/23_28.png"
+    },
+    "2005_25": {
+        "prob": "sets/2005/probs/25.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/23_28.png"
+    },
+    "2005_31": {
+        "prob": "sets/2005/probs/31.png",
+        "page": "sets/2005/pages/23_35.png",
+        "half": "sets/2005/halves/29_35.png"
+    },
+    "2005_19": {
+        "prob": "sets/2005/probs/19.png",
+        "page": "sets/2005/pages/10_22.png",
+        "half": "sets/2005/halves/18_22.png"
+    },
+    "2005_4": {
+        "prob": "sets/2005/probs/4.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/1_5.png"
+    },
+    "2005_56": {
+        "prob": "sets/2005/probs/56.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_42": {
+        "prob": "sets/2005/probs/42.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_43": {
+        "prob": "sets/2005/probs/43.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_5": {
+        "prob": "sets/2005/probs/5.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/1_5.png"
+    },
+    "2005_57": {
+        "prob": "sets/2005/probs/57.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_41": {
+        "prob": "sets/2005/probs/41.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/36_41.png"
+    },
+    "2005_55": {
+        "prob": "sets/2005/probs/55.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_7": {
+        "prob": "sets/2005/probs/7.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/6_9.png"
+    },
+    "2005_54": {
+        "prob": "sets/2005/probs/54.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_6": {
+        "prob": "sets/2005/probs/6.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/6_9.png"
+    },
+    "2005_40": {
+        "prob": "sets/2005/probs/40.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/36_41.png"
+    },
+    "2005_44": {
+        "prob": "sets/2005/probs/44.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_2": {
+        "prob": "sets/2005/probs/2.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/1_5.png"
+    },
+    "2005_50": {
+        "prob": "sets/2005/probs/50.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_3": {
+        "prob": "sets/2005/probs/3.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/1_5.png"
+    },
+    "2005_51": {
+        "prob": "sets/2005/probs/51.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_45": {
+        "prob": "sets/2005/probs/45.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_53": {
+        "prob": "sets/2005/probs/53.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2005_1": {
+        "prob": "sets/2005/probs/1.png",
+        "page": "sets/2005/pages/1_9.png",
+        "half": "sets/2005/halves/1_5.png"
+    },
+    "2005_47": {
+        "prob": "sets/2005/probs/47.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_46": {
+        "prob": "sets/2005/probs/46.png",
+        "page": "sets/2005/pages/36_49.png",
+        "half": "sets/2005/halves/42_49.png"
+    },
+    "2005_52": {
+        "prob": "sets/2005/probs/52.png",
+        "page": "sets/2005/pages/50_60.png",
+        "half": "sets/2005/halves/50_57.png"
+    },
+    "2002_60": {
+        "prob": "sets/2002/probs/60.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_48": {
+        "prob": "sets/2002/probs/48.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_49": {
+        "prob": "sets/2002/probs/49.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_59": {
+        "prob": "sets/2002/probs/59.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_58": {
+        "prob": "sets/2002/probs/58.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_8": {
+        "prob": "sets/2002/probs/8.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/6_11.png"
+    },
+    "2002_9": {
+        "prob": "sets/2002/probs/9.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/6_11.png"
+    },
+    "2002_14": {
+        "prob": "sets/2002/probs/14.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/12_16.png"
+    },
+    "2002_28": {
+        "prob": "sets/2002/probs/28.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/23_28.png"
+    },
+    "2002_29": {
+        "prob": "sets/2002/probs/29.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/29_32.png"
+    },
+    "2002_15": {
+        "prob": "sets/2002/probs/15.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/12_16.png"
+    },
+    "2002_17": {
+        "prob": "sets/2002/probs/17.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/17_22.png"
+    },
+    "2002_16": {
+        "prob": "sets/2002/probs/16.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/12_16.png"
+    },
+    "2002_12": {
+        "prob": "sets/2002/probs/12.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/12_16.png"
+    },
+    "2002_13": {
+        "prob": "sets/2002/probs/13.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/12_16.png"
+    },
+    "2002_39": {
+        "prob": "sets/2002/probs/39.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/38_43.png"
+    },
+    "2002_11": {
+        "prob": "sets/2002/probs/11.png",
+        "half": "sets/2002/halves/6_11.png"
+    },
+    "2002_10": {
+        "prob": "sets/2002/probs/10.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/6_11.png"
+    },
+    "2002_38": {
+        "prob": "sets/2002/probs/38.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/38_43.png"
+    },
+    "2002_35": {
+        "prob": "sets/2002/probs/35.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/33_37.png"
+    },
+    "2002_21": {
+        "prob": "sets/2002/probs/21.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/17_22.png"
+    },
+    "2002_20": {
+        "prob": "sets/2002/probs/20.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/17_22.png"
+    },
+    "2002_34": {
+        "prob": "sets/2002/probs/34.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/33_37.png"
+    },
+    "2002_22": {
+        "prob": "sets/2002/probs/22.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/17_22.png"
+    },
+    "2002_36": {
+        "prob": "sets/2002/probs/36.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/33_37.png"
+    },
+    "2002_37": {
+        "prob": "sets/2002/probs/37.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/33_37.png"
+    },
+    "2002_23": {
+        "prob": "sets/2002/probs/23.png",
+        "half": "sets/2002/halves/23_28.png"
+    },
+    "2002_27": {
+        "prob": "sets/2002/probs/27.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/23_28.png"
+    },
+    "2002_33": {
+        "prob": "sets/2002/probs/33.png",
+        "half": "sets/2002/halves/33_37.png"
+    },
+    "2002_32": {
+        "prob": "sets/2002/probs/32.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/29_32.png"
+    },
+    "2002_26": {
+        "prob": "sets/2002/probs/26.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/23_28.png"
+    },
+    "2002_18": {
+        "prob": "sets/2002/probs/18.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/17_22.png"
+    },
+    "2002_30": {
+        "prob": "sets/2002/probs/30.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/29_32.png"
+    },
+    "2002_24": {
+        "prob": "sets/2002/probs/24.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/23_28.png"
+    },
+    "2002_25": {
+        "prob": "sets/2002/probs/25.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/23_28.png"
+    },
+    "2002_31": {
+        "prob": "sets/2002/probs/31.png",
+        "page": "sets/2002/pages/24_32.png",
+        "half": "sets/2002/halves/29_32.png"
+    },
+    "2002_19": {
+        "prob": "sets/2002/probs/19.png",
+        "page": "sets/2002/pages/12_22.png",
+        "half": "sets/2002/halves/17_22.png"
+    },
+    "2002_4": {
+        "prob": "sets/2002/probs/4.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/1_5.png"
+    },
+    "2002_56": {
+        "prob": "sets/2002/probs/56.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_42": {
+        "prob": "sets/2002/probs/42.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/38_43.png"
+    },
+    "2002_43": {
+        "prob": "sets/2002/probs/43.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/38_43.png"
+    },
+    "2002_5": {
+        "prob": "sets/2002/probs/5.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/1_5.png"
+    },
+    "2002_57": {
+        "prob": "sets/2002/probs/57.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_41": {
+        "prob": "sets/2002/probs/41.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/38_43.png"
+    },
+    "2002_55": {
+        "prob": "sets/2002/probs/55.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_7": {
+        "prob": "sets/2002/probs/7.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/6_11.png"
+    },
+    "2002_54": {
+        "prob": "sets/2002/probs/54.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_6": {
+        "prob": "sets/2002/probs/6.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/6_11.png"
+    },
+    "2002_40": {
+        "prob": "sets/2002/probs/40.png",
+        "page": "sets/2002/pages/34_43.png",
+        "half": "sets/2002/halves/38_43.png"
+    },
+    "2002_44": {
+        "prob": "sets/2002/probs/44.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_2": {
+        "prob": "sets/2002/probs/2.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/1_5.png"
+    },
+    "2002_50": {
+        "prob": "sets/2002/probs/50.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_3": {
+        "prob": "sets/2002/probs/3.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/1_5.png"
+    },
+    "2002_51": {
+        "prob": "sets/2002/probs/51.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_45": {
+        "prob": "sets/2002/probs/45.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_53": {
+        "prob": "sets/2002/probs/53.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2002_1": {
+        "prob": "sets/2002/probs/1.png",
+        "page": "sets/2002/pages/1_10.png",
+        "half": "sets/2002/halves/1_5.png"
+    },
+    "2002_47": {
+        "prob": "sets/2002/probs/47.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_46": {
+        "prob": "sets/2002/probs/46.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/44_51.png"
+    },
+    "2002_52": {
+        "prob": "sets/2002/probs/52.png",
+        "page": "sets/2002/pages/45_60.png",
+        "half": "sets/2002/halves/52_60.png"
+    },
+    "2003_60": {
+        "prob": "sets/2003/probs/60.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_48": {
+        "prob": "sets/2003/probs/48.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_49": {
+        "prob": "sets/2003/probs/49.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_59": {
+        "prob": "sets/2003/probs/59.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_58": {
+        "prob": "sets/2003/probs/58.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_8": {
+        "prob": "sets/2003/probs/8.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_9": {
+        "prob": "sets/2003/probs/9.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_14": {
+        "prob": "sets/2003/probs/14.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_28": {
+        "prob": "sets/2003/probs/28.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/23_28.png"
+    },
+    "2003_29": {
+        "prob": "sets/2003/probs/29.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/29_33.png"
+    },
+    "2003_15": {
+        "prob": "sets/2003/probs/15.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_17": {
+        "prob": "sets/2003/probs/17.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_16": {
+        "prob": "sets/2003/probs/16.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_12": {
+        "prob": "sets/2003/probs/12.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_13": {
+        "prob": "sets/2003/probs/13.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_39": {
+        "prob": "sets/2003/probs/39.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_11": {
+        "prob": "sets/2003/probs/11.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_10": {
+        "prob": "sets/2003/probs/10.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/8_14.png"
+    },
+    "2003_38": {
+        "prob": "sets/2003/probs/38.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_35": {
+        "prob": "sets/2003/probs/35.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_21": {
+        "prob": "sets/2003/probs/21.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_20": {
+        "prob": "sets/2003/probs/20.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_34": {
+        "prob": "sets/2003/probs/34.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_22": {
+        "prob": "sets/2003/probs/22.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_36": {
+        "prob": "sets/2003/probs/36.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_37": {
+        "prob": "sets/2003/probs/37.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_23": {
+        "prob": "sets/2003/probs/23.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/23_28.png"
+    },
+    "2003_27": {
+        "prob": "sets/2003/probs/27.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/23_28.png"
+    },
+    "2003_33": {
+        "prob": "sets/2003/probs/33.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/29_33.png"
+    },
+    "2003_32": {
+        "prob": "sets/2003/probs/32.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/29_33.png"
+    },
+    "2003_26": {
+        "prob": "sets/2003/probs/26.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/23_28.png"
+    },
+    "2003_18": {
+        "prob": "sets/2003/probs/18.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_30": {
+        "prob": "sets/2003/probs/30.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/29_33.png"
+    },
+    "2003_24": {
+        "prob": "sets/2003/probs/24.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/23_28.png"
+    },
+    "2003_25": {
+        "prob": "sets/2003/probs/25.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/23_28.png"
+    },
+    "2003_31": {
+        "prob": "sets/2003/probs/31.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/29_33.png"
+    },
+    "2003_19": {
+        "prob": "sets/2003/probs/19.png",
+        "page": "sets/2003/pages/15_28.png",
+        "half": "sets/2003/halves/15_22.png"
+    },
+    "2003_4": {
+        "prob": "sets/2003/probs/4.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_56": {
+        "prob": "sets/2003/probs/56.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_42": {
+        "prob": "sets/2003/probs/42.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_43": {
+        "prob": "sets/2003/probs/43.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_5": {
+        "prob": "sets/2003/probs/5.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_57": {
+        "prob": "sets/2003/probs/57.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_41": {
+        "prob": "sets/2003/probs/41.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_55": {
+        "prob": "sets/2003/probs/55.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_7": {
+        "prob": "sets/2003/probs/7.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_54": {
+        "prob": "sets/2003/probs/54.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_6": {
+        "prob": "sets/2003/probs/6.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_40": {
+        "prob": "sets/2003/probs/40.png",
+        "page": "sets/2003/pages/29_40.png",
+        "half": "sets/2003/halves/34_40.png"
+    },
+    "2003_44": {
+        "prob": "sets/2003/probs/44.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_2": {
+        "prob": "sets/2003/probs/2.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_50": {
+        "prob": "sets/2003/probs/50.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_3": {
+        "prob": "sets/2003/probs/3.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_51": {
+        "prob": "sets/2003/probs/51.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_45": {
+        "prob": "sets/2003/probs/45.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_53": {
+        "prob": "sets/2003/probs/53.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2003_1": {
+        "prob": "sets/2003/probs/1.png",
+        "page": "sets/2003/pages/1_14.png",
+        "half": "sets/2003/halves/1_7.png"
+    },
+    "2003_47": {
+        "prob": "sets/2003/probs/47.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_46": {
+        "prob": "sets/2003/probs/46.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/41_49.png"
+    },
+    "2003_52": {
+        "prob": "sets/2003/probs/52.png",
+        "page": "sets/2003/pages/41_60.png",
+        "half": "sets/2003/halves/50_60.png"
+    },
+    "2004_60": {
+        "prob": "sets/2004/probs/60.png",
+        "page": "sets/2004/pages/58_60.png",
+        "half": "sets/2004/halves/58_60.png"
+    },
+    "2004_48": {
+        "prob": "sets/2004/probs/48.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_49": {
+        "prob": "sets/2004/probs/49.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_59": {
+        "prob": "sets/2004/probs/59.png",
+        "page": "sets/2004/pages/58_60.png",
+        "half": "sets/2004/halves/58_60.png"
+    },
+    "2004_58": {
+        "prob": "sets/2004/probs/58.png",
+        "page": "sets/2004/pages/58_60.png",
+        "half": "sets/2004/halves/58_60.png"
+    },
+    "2004_8": {
+        "prob": "sets/2004/probs/8.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/6_11.png"
+    },
+    "2004_9": {
+        "prob": "sets/2004/probs/9.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/6_11.png"
+    },
+    "2004_14": {
+        "prob": "sets/2004/probs/14.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_28": {
+        "prob": "sets/2004/probs/28.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/26_31.png"
+    },
+    "2004_29": {
+        "prob": "sets/2004/probs/29.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/26_31.png"
+    },
+    "2004_15": {
+        "prob": "sets/2004/probs/15.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_17": {
+        "prob": "sets/2004/probs/17.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_16": {
+        "prob": "sets/2004/probs/16.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_12": {
+        "prob": "sets/2004/probs/12.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_13": {
+        "prob": "sets/2004/probs/13.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_39": {
+        "prob": "sets/2004/probs/39.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_11": {
+        "prob": "sets/2004/probs/11.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/6_11.png"
+    },
+    "2004_10": {
+        "prob": "sets/2004/probs/10.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/6_11.png"
+    },
+    "2004_38": {
+        "prob": "sets/2004/probs/38.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_35": {
+        "prob": "sets/2004/probs/35.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_21": {
+        "prob": "sets/2004/probs/21.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_20": {
+        "prob": "sets/2004/probs/20.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_34": {
+        "prob": "sets/2004/probs/34.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_22": {
+        "prob": "sets/2004/probs/22.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_36": {
+        "prob": "sets/2004/probs/36.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_37": {
+        "prob": "sets/2004/probs/37.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_23": {
+        "prob": "sets/2004/probs/23.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_27": {
+        "prob": "sets/2004/probs/27.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/26_31.png"
+    },
+    "2004_33": {
+        "prob": "sets/2004/probs/33.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_32": {
+        "prob": "sets/2004/probs/32.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/32_38.png"
+    },
+    "2004_26": {
+        "prob": "sets/2004/probs/26.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/26_31.png"
+    },
+    "2004_18": {
+        "prob": "sets/2004/probs/18.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/12_18.png"
+    },
+    "2004_30": {
+        "prob": "sets/2004/probs/30.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/26_31.png"
+    },
+    "2004_24": {
+        "prob": "sets/2004/probs/24.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_25": {
+        "prob": "sets/2004/probs/25.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_31": {
+        "prob": "sets/2004/probs/31.png",
+        "page": "sets/2004/pages/26_38.png",
+        "half": "sets/2004/halves/26_31.png"
+    },
+    "2004_19": {
+        "prob": "sets/2004/probs/19.png",
+        "page": "sets/2004/pages/12_25.png",
+        "half": "sets/2004/halves/19_25.png"
+    },
+    "2004_4": {
+        "prob": "sets/2004/probs/4.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/1_5.png"
+    },
+    "2004_56": {
+        "prob": "sets/2004/probs/56.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_42": {
+        "prob": "sets/2004/probs/42.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_43": {
+        "prob": "sets/2004/probs/43.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_5": {
+        "prob": "sets/2004/probs/5.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/1_5.png"
+    },
+    "2004_57": {
+        "prob": "sets/2004/probs/57.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_41": {
+        "prob": "sets/2004/probs/41.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_55": {
+        "prob": "sets/2004/probs/55.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_7": {
+        "prob": "sets/2004/probs/7.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/6_11.png"
+    },
+    "2004_54": {
+        "prob": "sets/2004/probs/54.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_6": {
+        "prob": "sets/2004/probs/6.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/6_11.png"
+    },
+    "2004_40": {
+        "prob": "sets/2004/probs/40.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_44": {
+        "prob": "sets/2004/probs/44.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_2": {
+        "prob": "sets/2004/probs/2.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/1_5.png"
+    },
+    "2004_50": {
+        "prob": "sets/2004/probs/50.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_3": {
+        "prob": "sets/2004/probs/3.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/1_5.png"
+    },
+    "2004_51": {
+        "prob": "sets/2004/probs/51.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_45": {
+        "prob": "sets/2004/probs/45.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_53": {
+        "prob": "sets/2004/probs/53.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    },
+    "2004_1": {
+        "prob": "sets/2004/probs/1.png",
+        "page": "sets/2004/pages/1_11.png",
+        "half": "sets/2004/halves/1_5.png"
+    },
+    "2004_47": {
+        "prob": "sets/2004/probs/47.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_46": {
+        "prob": "sets/2004/probs/46.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/39_47.png"
+    },
+    "2004_52": {
+        "prob": "sets/2004/probs/52.png",
+        "page": "sets/2004/pages/39_57.png",
+        "half": "sets/2004/halves/48_57.png"
+    }
+}
